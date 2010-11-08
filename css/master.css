@@ -1,0 +1,7 @@
+body { background-color: black; font-family: 'Nobile', arial, sans-serif; font-size: 14pt; color: White;}
+div.container { margin-top: 200px;}
+h1 { padding-top: 20px; font-size: 64px; color: #f9e851; font-family: 'Droid Serif', arial, serif; font-weight: bold;}
+p { padding-left: 5px; }
+a { color: #46a945; text-decoration: none; }
+a:hover { color: #f9e851; text-decoration: underline; }
+
